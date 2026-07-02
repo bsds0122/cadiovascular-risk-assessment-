@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+uploads/
+diabetic_care.db
+.pytest_cache/
